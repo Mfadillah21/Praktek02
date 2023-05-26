@@ -6,7 +6,7 @@ public class RectangleAksi {
         r1.lebar = 3;
         
         r1.cetakInfo();
-        System.out.print("Luas rectangle = "+r1.luasHitung());
+        System.out.print("Luas rectangle = "+r1.hitungLuas());
         r1.cetakLuas();
     }
 }
